@@ -4,11 +4,11 @@
 Únicamente solicitándolas previamente, ya sea por correo electrónico o antes/después de la clase.
 
 ## Exámenes, talleres y fechas
-El curso se evaluará mediante exámenes y un taller final opcional.
+El curso se evaluará mediante exámenes.
 
 ### Exámenes:
 * **Examen 1:** 25%
-  * Parte 1 (33%): Agosto 24, Agosto 25 (se harán dos preguntas del repaso matemático)
+  * Parte 1 (33%): Agosto 24, Agosto 25. Se harán dos preguntas del repaso matemático: una de álgebra lineal y otra del cálculo vectorial.
   * Parte 2 (67%): Agosto 31, Septiembre 1
 * **Examen 2:** 25% Octubre 5, Octubre 6
 * **Examen 3:** 25% Noviembre 2, Noviembre 3
