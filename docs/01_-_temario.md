@@ -48,7 +48,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Rotacional
 * Diferenciales (se estudió en cálculo vectorial)
 * Expansión en series de Taylor (univariada y multivariada)
-* Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
+* Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
 * Campo vectorial (definición y ejemplos sencillos)
 
 #### 1. Introducción al cálculo tensorial
