@@ -64,18 +64,18 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Tensor de tensiones
 * Cambio de base
 * Esfuerzos principales
-* Círculo de Mohr para esfuerzos
+* Círculo de Mohr en 2D y 3D para esfuerzos
 
 #### 3. Desplazamientos y pequeñas deformaciones
 * Desplazamientos
+* Translación y rotación rígida
 * Deformaciones longitudinales y angulares, tensor de deformación infinitesimal.
 * Galgas extensiométricas
 * Especificación de la deformación en otras direcciones
 * Rotación
 * Deformaciones principales
 * Tensores de estiramiento y rotación.
-* Círculo de Mohr para deformaciones
-* Tensores de Piola-Kirchhoff
+* Círculo de Mohr en 2D y 3D para deformaciones
 
 ### 4. Relación entre esfuerzos y deformaciones
 * Materiales frágiles y materiales dúctiles: comportamiento elastoplástico, curva esfuerzo deformación.
@@ -86,25 +86,32 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
   * Ecuaciones de Lamé
 * Relación entre las direcciones principales asociadas a los esfuerzos y a las deformaciones para materiales isótropos
 * Cambios de volumen y dilatación cúbica
+* Teorema de la divergencia
 * Modelos básicos de materiales: Newton y Coulomb
 * Determinación experimental de las propiedades del material.
 * Modelación unidimensional de: elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación
 
 ### 5. Desplazamientos y grandes deformaciones
-* Descripciones de Lagrange y Euler. Derivada material. Tensor gradiente de deformación.
-* Tensores de Lagrange, Green, Euler-Almansi.
-* Descomposición polar. Tasa de deformación, tensor de giro, vector de velocidad angular.
+* Descripciones de Lagrange y Euler. 
+* Derivada material. 
+* Tensor gradiente de deformación.
+* Tensores de Cauchy-Green, Cauchy-Lagrange, Euler-Almansi.
+* Descomposición polar. 
+* Tasa de deformación, tensor de giro, vector de velocidad angular.
 * Tensor gradiente de velocidad
 * Derivadas materiales de líneas, áreas y volúmenes.
+* Tensores de Piola-Kirchhoff
 
 ### 6. Ecuaciones fundamentales de la mecánica de los medios continuos
 * Derivada material de integrales de línea, área y volumen
+* Movimiento, flujo y derivada material; velocidad, aceleración, líneas de traza, tasa de deformación y vorticidad.
 * Conservación de masa y ecuaciones de continuidad
 * Momentum. Ecuaciones de movimiento
 * Principio del momento del momentum
 * Potencia de esfuerzos. 
 * Ecuación de la energía.
-* Principio del trabajo virtual. Formulaciones para pequeñas y grandes deformaciones.
+* Primera y segunda ley de termodinámica
+* Principio del trabajo virtual.
 
 ## Bibliografía básica
 * Alvarez, Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
