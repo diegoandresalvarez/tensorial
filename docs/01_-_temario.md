@@ -51,13 +51,13 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
 * Campo vectorial (definición y ejemplos sencillos)
 
-#### 1. Introducción al cálculo tensorial
+### 1. Introducción al cálculo tensorial
 * Definición de tensor, notación indicial.
 * Álgebra de tensores: vectores y valores principales, invariantes, ortogonalidad.
 * Cálculo tensorial: gradiente, divergencia, rotacional, laplaciano.
 * Tensores de órdenes superiores
 
-#### 2. Esfuerzos o tensiones
+### 2. Esfuerzos o tensiones
 * Fuerzas másicas y fuerzas superficiales
 * Tensor de esfuerzos de Cauchy. Principio de Cauchy.
 * Esfuerzos cortantes y normales
@@ -66,7 +66,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Esfuerzos principales
 * Círculo de Mohr en 2D y 3D para esfuerzos
 
-#### 3. Desplazamientos y pequeñas deformaciones
+### 3. Desplazamientos y pequeñas deformaciones
 * Desplazamientos
 * Translación y rotación rígida
 * Deformaciones longitudinales y angulares, tensor de deformación infinitesimal.
