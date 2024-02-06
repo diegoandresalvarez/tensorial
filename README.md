@@ -3,18 +3,24 @@
 
 - Profesor: [Diego Andrés Alvarez Marín](https://sites.google.com/site/diegoandresalvarezmarin/alvarezCV_internet.pdf) (daalvarez@unal.edu.co)
 - Semanas: 16
-- Créditos: 3
+- Créditos: 4
 
 - Intensidad horaria semanal presencial: 4 horas
 
+- Horario:
+  - Lunes 10:00-12:00, Aula C308
+  - Jueves 10:00-12:00, Aula C308
+
+<!---
 - Grupo 1:
   - Lunes 16:00-18:00, Aula C401
   - Miércoles 16:00-18:00, Aula C310
 - Grupo 2:
   - Martes 16:00-18:00, Aula C305
   - Jueves 16:00-18:00, Aula C108 (geología)
+--->
 
-- Tiempo de actividad autónoma por semana: 8 horas
+- Tiempo de actividad autónoma por semana: 12 horas
 
 ## Tabla de contenido:
 - [Temario y observaciones generales](docs/01_-_temario.md)

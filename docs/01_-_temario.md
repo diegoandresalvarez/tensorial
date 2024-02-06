@@ -8,11 +8,11 @@ El curso se evaluará mediante exámenes.
 
 ### Exámenes:
 * **Examen 1:** 25%
-  * Parte 1 (33%): Agosto 24, Agosto 25. Se harán dos preguntas del repaso matemático: una de álgebra lineal y otra del cálculo vectorial.
-  * Parte 2 (67%): Agosto 31, Septiembre 1
-* **Examen 2:** 25% Octubre 5, Octubre 6
-* **Examen 3:** 25% Noviembre 2, Noviembre 3
-* **Examen 4:** 25% Noviembre 30, Diciembre 1
+  * Parte 1 (50%): Febrero 22. Se harán dos preguntas del repaso matemático: una de álgebra lineal y otra del cálculo vectorial; adicionalmente, se evaluará el tema visto hasta Febrero 19.
+  * Parte 2 (50%): Capítulo 1 y 2. Marzo 11.
+* **Examen 2:** 25% Capítulo 3. Abril 15.
+* **Examen 3:** 25% Capítulo 4. Mayo 9.
+* **Examen 4:** 25% Grandes deformaciones, Mayo 30.
 
 ## Descripción de la asignatura mecánica tensorial
 En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
