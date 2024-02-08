@@ -28,3 +28,14 @@ A continuación se recomiendan algunas páginas donde el estudiante puede aprend
 * [Video tutoriales de MATLAB realizados por Andrés Felipe Ramírez](https://www.youtube.com/playlist?list=PLj3KYX7UqPG8uZWqtQ7ZBG1DSou1fLDMS)
 
 
+## COMSOL Multiphysics 3.5
+[COMSOL Multiphysics](http://www.comsol.com/) es un paquete de modelado para la simulación de cualquier proceso físico que se pueda describir mediante ecuaciones en derivadas parciales (partial differential equations o PDEs). Está provisto de la última tecnología y algoritmos de resolvedores que pueden manejar problemas complejos de forma rápida y precisa, mientras que su intuitiva estructura está diseñada para proporcionar una gran facilidad de uso y flexibilidad. A continuación se recomiendan algunos enlaces donde el estudiante puede aprender por cuenta propia dicho software:
+
+* [Video tutoriales elaborados por Felipe Uribe](https://vimeo.com/user1637955)
+* Windows: Inicio -> Programas -> COMSOL -> Documentación -> Getting started guide.pdf
+* Linux:
+  * `/usr/local/comsol35a/doc/multiphysics/quick.pdf` 
+  * `/usr/local/comsol35a/doc/multiphysics/modlib.pdf`
+  * `/usr/local/comsol35a/doc/sme/smemodlib.pdf`
+  * `/usr/local/comsol35a/doc/sme/smeverification.pdf`
+

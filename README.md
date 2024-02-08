@@ -7,7 +7,7 @@
 
 - Intensidad horaria semanal presencial: 4 horas
 
-- Horario:
+- Horario (grupo 1):
   - Lunes 10:00-12:00, Aula C308
   - Jueves 10:00-12:00, Aula C308
 

@@ -8,11 +8,11 @@ El curso se evaluará mediante exámenes.
 
 ### Exámenes:
 * **Examen 1:** 25%
-  * Parte 1 (50%): Febrero 22. Se harán dos preguntas del repaso matemático: una de álgebra lineal y otra del cálculo vectorial; adicionalmente, se evaluará el tema visto hasta Febrero 19.
-  * Parte 2 (50%): Capítulo 1 y 2. Marzo 11.
-* **Examen 2:** 25% Capítulo 3. Abril 15.
-* **Examen 3:** 25% Capítulo 4. Mayo 9.
-* **Examen 4:** 25% Grandes deformaciones, Mayo 30.
+  * Parte 1 (50%): Jueves, Febrero 22 (semana 3). Se harán dos preguntas una de álgebra lineal y otra del tema visto hasta Febrero 19.
+  * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2.
+* **Examen 2:** 25% Capítulo 3. Lunes, Abril 15 (semana 10).
+* **Examen 3:** 25% Capítulo 4. Lunes, Mayo 6 (semana 13).
+* **Examen 4:** 25% Grandes deformaciones. Lunes, Mayo 27 (semana 16).
 
 ## Descripción de la asignatura mecánica tensorial
 En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
@@ -114,7 +114,9 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Principio del trabajo virtual.
 
 ## Bibliografía básica
-* Alvarez, Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
+* Alvarez Diego A. (2024) - *Notas de clase del curso mecánica de sólidos*. En preparación.
+* Álvarez-Marín, D. A. (2023a). Teoría de la Elasticidad usando Matlab y Maxima (volumen 1: fundamentos). Departamento de Ingeniería Civil, Facultad de Ingeniería y Arquitectura, Universidad Nacional de Colombia - Sede Manizales. ISBN 978-958-505-376-2. https://repositorio.unal.edu.co/handle/unal/84682
+* Alvarez, Diego A. Video tutoriales en YouTube sobre teoría de la elasticidad https://www.youtube.com/channel/UCV0FtSuauv5WbcY-lLRMZ4g
 * Lai, M., Krempl, E, Ruben, D.	(2010) - *Introduction to Continuum Mechanics*. Elsevier
 * Oliver, X., Agelet, C. (2002) - *Mecánica de Medios Continuos para Ingenieros*.
 * Bonet, J., Gil, A.J., Woods, R (2016) -* Nonlinear Solid Mechanics for Finite Element Analysis*. Cambridge.
