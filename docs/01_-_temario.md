@@ -8,10 +8,10 @@ El curso se evaluará mediante exámenes.
 
 ### Exámenes:
 * **Examen 1:** 25%
-  * Parte 1 (50%): Jueves, Febrero 22 (semana 3). Se harán dos preguntas una de álgebra lineal y otra del tema visto hasta Febrero 19.
-  * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2.
-* **Examen 2:** 25% Capítulo 3. Lunes, Abril 15 (semana 10).
-* **Examen 3:** 25% Capítulo 4. Lunes, Mayo 6 (semana 13).
+  * Parte 1 (50%): Jueves, Febrero 22 (semana 3). Se harán dos preguntas una de álgebra lineal y otra del tema del Capítulo 2 visto hasta Febrero 19.
+  * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase).
+* **Examen 2:** 25% Todo el Capítulo 3 (incluso lo que no se explicó en clase). Lunes, Abril 15 (semana 10).
+* **Examen 3:** 25% Todo el Capítulo 4 (incluso lo que no se explicó en clase). Lunes, Mayo 6 (semana 13).
 * **Examen 4:** 25% Grandes deformaciones. Lunes, Mayo 27 (semana 16).
 
 ## Descripción de la asignatura mecánica tensorial
