@@ -9,10 +9,10 @@ El curso se evaluará mediante exámenes.
 ### Exámenes:
 * **Examen 1:** 25%
   * Parte 1 (50%): Jueves, Febrero 22 (semana 3). Se harán dos preguntas una de álgebra lineal y otra del tema del Capítulo 2 visto hasta Febrero 19.
-  * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase).
-* **Examen 2:** 25% Todo el Capítulo 3 (incluso lo que no se explicó en clase). Lunes, Abril 15 (semana 10).
-* **Examen 3:** 25% Todo el Capítulo 4 (incluso lo que no se explicó en clase). Lunes, Mayo 6 (semana 13).
-* **Examen 4:** 25% Grandes deformaciones. Lunes, Mayo 27 (semana 16).
+  * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+* **Examen 2:** 25% Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, Abril 15 (semana 10).
+* **Examen 3:** 25% Todo el Capítulo 4 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, Mayo 6 (semana 13).
+* **Examen 4:** 25% Grandes deformaciones. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, Mayo 27 (semana 16).
 
 ## Descripción de la asignatura mecánica tensorial
 En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
