@@ -10,7 +10,7 @@ El curso se evaluará mediante exámenes.
 * **Examen 1:** 25%
   * Parte 1 (50%): Jueves, Febrero 22 (semana 3). Se harán dos preguntas una de álgebra lineal y otra del tema del Capítulo 2 visto hasta Febrero 19.
   * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
-* **Examen 2:** 25% Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, Abril 15 (semana 10).
+* **Examen 2:** 25% Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON  de los capítulos 2 y 3. Lunes, Abril 15 (semana 10).
 * **Examen 3:** 25% Todo el Capítulo 4 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, Mayo 6 (semana 13).
 * **Examen 4:** 25% Grandes deformaciones. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, Mayo 27 (semana 16).
 
