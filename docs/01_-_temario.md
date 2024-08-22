@@ -11,7 +11,7 @@ El curso se evaluará mediante exámenes.
   * Parte 1 (50%): Jueves, Febrero 22 (semana 3). Se harán dos preguntas una de álgebra lineal y otra del tema del Capítulo 2 visto hasta Febrero 19.
   * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
 * **Examen 2:** 25% Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON  de los capítulos 2 y 3. ~~Lunes, Abril 15 (semana 10)~~ Jueves, Agosto 8 (semana 8).
-* **Examen 3:** 25% Del main_solidos.pdf todo el Capítulo 4 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Del main_tensorial.pdf todo el tema desde la sección 3.1 a la sección 3.10. Lunes, ~~Mayo 6 (semana 13)~~ Agosto 26 (semana 11).
+* **Examen 3:** 25% Del main_solidos.pdf el capítulo 4 desde el principio hasta la sección 4.7 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Del main_tensorial.pdf todo el tema desde la sección 3.1 a la sección 3.10. Este examen incluye lo que está en los textos guías y no se explicó en clase. Lunes, ~~Mayo 6 (semana 13)~~ Agosto 26 (semana 11).
 * **Examen 4:** 25% Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, ~~Mayo 27~~ Septiembre 30 (semana 16).
 
 ## Descripción de la asignatura mecánica tensorial
