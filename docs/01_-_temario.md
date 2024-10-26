@@ -8,11 +8,34 @@ El curso se evaluará mediante exámenes.
 
 ### Exámenes:
 * **Examen 1:** 25%
-  * Parte 1 (50%): Jueves, Febrero 22 (semana 3). Se harán dos preguntas una de álgebra lineal y otra del tema del Capítulo 2 visto hasta Febrero 19.
-  * Parte 2 (50%): Jueves, Marzo 14  (semana 6). Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
-* **Examen 2:** 25% Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON  de los capítulos 2 y 3. ~~Lunes, Abril 15 (semana 10)~~ Jueves, Agosto 8 (semana 8).
-* **Examen 3:** 25% Del main_solidos.pdf el capítulo 4 desde el principio hasta la sección 4.7 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Del main_tensorial.pdf todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase. Jueves, Septiembre 5 (semana 12).
-* **Examen 4:** 25% Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Lunes, ~~Mayo 27~~ Septiembre 30 (semana 16).
+  * Parte 1 (50%): 
+    * Fecha (semana 3):
+      * Grupo 1: Jueves Noviembre 14, 2024
+      * Grupo 2: Viernes Noviembre 15, 2024
+    * Tema: Se harán dos preguntas una de álgebra lineal y otra del tema del Capítulo 2 visto hasta la clase anterior al examen.
+  * Parte 2 (50%):
+    * Fecha (semana 6):
+      * Grupo 1: Jueves Diciembre 5, 2024
+      * Grupo 2: Viernes Diciembre 6, 2024
+    * Tema: Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+
+* **Examen 2:** 25% 
+    * Fecha (semana 8):
+      * Grupo 1: Jueves Diciembre 19, 2024
+      * Grupo 2: Miércoles Diciembre 18, 2024
+    * Tema: Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
+
+* **Examen 3:** 25% 
+    * Fecha (semana 12):
+      * Grupo 1: Jueves Febrero 6, 2025
+      * Grupo 2: Viernes Febrero 7, 2025
+    * Tema: Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
+
+* **Examen 4:** 25%
+    * Fecha (semana 16):
+      * Grupo 1: Jueves Marzo 6, 2025
+      * Grupo 2: Viernes Marzo 7, 2025
+    * Tema: Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
 
 ## Descripción de la asignatura mecánica tensorial
 En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.

@@ -7,18 +7,12 @@
 
 - Intensidad horaria semanal presencial: 4 horas
 
-- Horario (grupo 1):
+- Grupo 1:
   - Lunes 10:00-12:00, Aula C308
   - Jueves 10:00-12:00, Aula C308
-
-<!---
-- Grupo 1:
-  - Lunes 16:00-18:00, Aula C401
-  - Miércoles 16:00-18:00, Aula C310
 - Grupo 2:
-  - Martes 16:00-18:00, Aula C305
-  - Jueves 16:00-18:00, Aula C108 (geología)
---->
+  - Martes 8:00-10:00, Aula C206
+  - Viernes 14:00-16:00, Aula C310
 
 - Tiempo de actividad autónoma por semana: 12 horas
 
