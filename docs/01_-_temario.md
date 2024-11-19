@@ -12,7 +12,14 @@ El curso se evaluará mediante exámenes.
     * Fecha (semana 3):
       * Grupo 1: Jueves Noviembre 14, 2024
       * Grupo 2: Viernes Noviembre 15, 2024
-    * Tema: Se harán dos preguntas una de álgebra lineal y otra del tema del Capítulo 2 visto hasta la clase anterior al examen.
+    * Tema: Se harán dos preguntas:
+      * Una de álgebra lineal.
+      * Otra del tema del Capítulo 2 visto hasta la clase anterior al examen. La pregunta saldrá al azar con las siguientes probabilidades:
+        * 30%: Valores y vectores propios en el contexto del tema "Esfuerzos y direcciones principales".
+        * 40%: Círculo de Mohr en 2D y 3D (estudiar este tema del libro y de mis videos de YouTube).
+        * 30%: Temas a partir de la sección 2.5 + apéndice matemático + códigos de programación.
+      * Para este examen se puede traer hoja de fórmulas, sin gráficos, ni programas.
+        
   * Parte 2 (50%):
     * Fecha (semana 6):
       * Grupo 1: Jueves Diciembre 5, 2024
@@ -36,6 +43,8 @@ El curso se evaluará mediante exámenes.
       * Grupo 1: Jueves Marzo 6, 2025
       * Grupo 2: Viernes Marzo 7, 2025
     * Tema: Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+    
+En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios numéricos y ejercicios de programación. <span style="color: #ff0000;">Se permite para los exámenes traer una hoja tamaño carta en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas y comandos de MATLAB/MAXIMA/PYTHON que deseen. En la hoja no se pueden ni escribir programas, ni textos explicativos, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones).</span>
 
 ## Descripción de la asignatura mecánica tensorial
 En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
