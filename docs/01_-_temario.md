@@ -14,19 +14,21 @@ El curso se evaluará mediante exámenes.
       * Grupo 2: Viernes Noviembre 15, 2024
     * Tema: Se harán dos preguntas:
       * Una de álgebra lineal.
-      * Otra del tema del Capítulo 2 visto hasta la clase anterior al examen. La pregunta saldrá al azar con las siguientes probabilidades:
-        * 30%: Valores y vectores propios en el contexto del tema "Esfuerzos y direcciones principales".
-        * 40%: Círculo de Mohr en 2D y 3D (estudiar este tema del libro y de mis videos de YouTube).
-        * 30%: Temas a partir de la sección 2.5 + apéndice matemático + códigos de programación.
-      * Para este examen se puede traer hoja de fórmulas, sin gráficos, ni programas.
+      * Otra del tema de los Capítulos 1 y 2 (hasta la sección 2.3 incluída).
         
   * Parte 2 (50%):
     * Fecha (semana 6):
       * Grupo 1: Jueves Diciembre 5, 2024
       * Grupo 2: Viernes Diciembre 6, 2024
-    * Tema: Se harán dos preguntas: una de cálculo vectorial y otra del resto de tema del capítulo 2 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+    * Tema: Se harán dos preguntas: 
+      * Una de cálculo vectorial.
+      * Otra del tema del Capítulo 2 visto hasta la clase anterior al examen (incluso lo que no se explicó en clase). La pregunta saldrá al azar con las siguientes probabilidades:
+        * 30%: Valores y vectores propios en el contexto del tema "Esfuerzos y direcciones principales".
+        * 40%: Círculo de Mohr en 2D y 3D (estudiar este tema del libro y de mis videos de YouTube).
+        * 30%: Temas a partir de la sección 2.5 + apéndice matemático + códigos de programación asociados (MATLAB/MAXIMA/PYTHON).
+      * Para este examen se puede traer hoja de fórmulas, sin gráficos, ni programas.
 
-* **Examen 2:** 25% 
+* **Examen 2:** 25%
     * Fecha (semana 8):
       * Grupo 1: Jueves Diciembre 19, 2024
       * Grupo 2: Miércoles Diciembre 18, 2024
