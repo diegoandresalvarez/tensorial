@@ -31,7 +31,7 @@ El curso se evaluará mediante exámenes.
 * **Examen 2:** 25%
     * Fecha (semana 8):
       * Grupo 1: Jueves Diciembre 19, 2024
-      * Grupo 2: Miércoles Diciembre 18, 2024
+      * Grupo 2: Martes Diciembre 17, 2024
     * Tema: Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
 
 * **Examen 3:** 25% 
