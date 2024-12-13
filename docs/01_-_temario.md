@@ -81,6 +81,8 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Divergencia
 * Rotacional
 * Diferenciales (se estudió en cálculo vectorial)
+* Optimización de funciones multivariadas
+* Optimización de funciones multivariadas con restricciones de igualdad (multiplicadores de Lagrange)
 * Expansión en series de Taylor (univariada y multivariada)
 * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
 * Campo vectorial (definición y ejemplos sencillos)
