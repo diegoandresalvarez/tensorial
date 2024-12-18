@@ -80,6 +80,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Matriz jacobiana y jacobiano
 * Divergencia
 * Rotacional
+* Curvas paramétricas
 * Diferenciales (se estudió en cálculo vectorial)
 * Expansión en series de Taylor (univariada y multivariada)
 * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
