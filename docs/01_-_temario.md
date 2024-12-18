@@ -30,8 +30,7 @@ El curso se evaluará mediante exámenes.
 
 * **Examen 2:** 25%
     * Fecha (semana 8):
-      * Grupo 1: Jueves Diciembre 19, 2024
-      * Grupo 2: Martes Diciembre 17, 2024
+      * Jueves Diciembre 19, 2024 (10:00 am) o Viernes Diciembre 20, 2024 (4:00 pm) según la conveniencia del estudiante.
     * Tema: Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
 
 * **Examen 3:** 25% 
@@ -82,6 +81,8 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Rotacional
 * Curvas paramétricas
 * Diferenciales (se estudió en cálculo vectorial)
+* Optimización de funciones multivariadas
+* Optimización de funciones multivariadas con restricciones de igualdad (multiplicadores de Lagrange)
 * Expansión en series de Taylor (univariada y multivariada)
 * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
 * Campo vectorial (definición y ejemplos sencillos)
