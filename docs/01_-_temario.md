@@ -81,7 +81,7 @@ Cada estudiante debe repasar por cuenta propia los siguientes temas:
 * Rotacional
 * Curvas paramétricas
 * Diferenciales (se estudió en cálculo vectorial)
-* Optimización de funciones multivariadas
+* Optimización de funciones multivariadas sin restricciones
 * Optimización de funciones multivariadas con restricciones de igualdad (multiplicadores de Lagrange)
 * Expansión en series de Taylor (univariada y multivariada)
 * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
