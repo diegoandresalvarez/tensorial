@@ -37,7 +37,11 @@ El curso se evaluará mediante exámenes.
     * Fecha (semana 12):
       * Grupo 1: Jueves Febrero 6, 2025
       * Grupo 2: Viernes Febrero 7, 2025
-    * Tema: Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
+    * Tema: 
+      * Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. 
+      * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
+      * Matrix Jacobiana y determinante de la matriz Jacobiana.
+      * Transformación lineal.
 
 * **Examen 4:** 25%
     * Fecha (semana 16):
