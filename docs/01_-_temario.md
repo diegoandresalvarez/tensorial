@@ -42,6 +42,7 @@ El curso se evaluará mediante exámenes.
       * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
       * Matrix Jacobiana y determinante de la matriz Jacobiana.
       * Transformación lineal.
+      * Regla de la cadena
 
 * **Examen 4:** 25%
     * Fecha (semana 16):
