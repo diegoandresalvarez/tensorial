@@ -49,7 +49,8 @@ El curso se evaluará mediante exámenes.
       * Grupo 1: Jueves Marzo 6, 2025
       * Grupo 2: Viernes Marzo 7, 2025
     * Tema: 
-      * Ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
+      * Del `main_tensorial.pdf`: secciones 3.11 y 3.21.
+      * Del `main_tensorial.pdf`: capítulo 5 - ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
       * Cambios de variable en integración múltiple.
       * Códigos de MATLAB/MAXIMA/PYTHON asociados.
 <!---
