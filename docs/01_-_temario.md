@@ -48,7 +48,13 @@ El curso se evaluará mediante exámenes.
     * Fecha (semana 16):
       * Grupo 1: Jueves Marzo 6, 2025
       * Grupo 2: Viernes Marzo 7, 2025
-    * Tema: Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+    * Tema: 
+      * Ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
+      * Cambios de variable en integración múltiple.
+      * Códigos de MATLAB/MAXIMA/PYTHON asociados.
+<!---
+* Grandes deformaciones
+--->
     
 En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios numéricos y ejercicios de programación. <code style="color: #ff0000;">Se permite para los exámenes traer una hoja tamaño carta en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas y comandos de MATLAB/MAXIMA/PYTHON que deseen. En la hoja no se pueden ni escribir programas, ni textos explicativos, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones).</code>
 
