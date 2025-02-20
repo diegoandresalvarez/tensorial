@@ -51,7 +51,9 @@ El curso se evaluará mediante exámenes.
     * Tema: 
       * Del `main_tensorial.pdf`: secciones 3.11 y 3.21.
       * Del `main_tensorial.pdf`: capítulo 5 - ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
+      * Matrix jacobiana y jacobiano.
       * Cambios de variable en integración múltiple.
+      * Bases y espacio generado por una base.
       * Códigos de MATLAB/MAXIMA/PYTHON asociados.
 <!---
 * Grandes deformaciones
