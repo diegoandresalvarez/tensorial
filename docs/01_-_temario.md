@@ -53,6 +53,8 @@ El curso se evaluará mediante exámenes.
       * Del `main_tensorial.pdf`: capítulo 5 - ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
       * Matrix jacobiana y jacobiano.
       * Cambios de variable en integración múltiple.
+      * Regla de la cadena.
+      * Series de Taylor (unidimensional y multidimensional)
       * Bases y espacio generado por una base.
       * Códigos de MATLAB/MAXIMA/PYTHON asociados.
 <!---
