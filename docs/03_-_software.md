@@ -27,7 +27,7 @@ En particular haremos uso de los JUPYTER NOTEBOOKS y de las librerías numpy, sc
 
 ## MATLAB
 A continuación se recomiendan algunas páginas donde el estudiante puede aprender por cuenta propia dicho lenguaje:
-* [The Mathworks (2022). Get Started with MATLAB](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
+* [The Mathworks. Get Started with MATLAB](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)
 * [Video tutoriales de MATLAB en español](http://matlablatino.blogspot.com/)
 * [Video tutoriales de MATLAB realizados por Andrés Felipe Ramírez](https://www.youtube.com/playlist?list=PLj3KYX7UqPG8uZWqtQ7ZBG1DSou1fLDMS)
 
