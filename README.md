@@ -1,5 +1,5 @@
 # Universidad Nacional de Colombia - Sede Manizales
-# C4200687 - Mecánica tensorial (mecánica del medio continuo)
+# 4200687 - Mecánica tensorial (mecánica del medio continuo)
 
 - Profesor: [Diego Andrés Alvarez Marín](https://sites.google.com/site/diegoandresalvarezmarin/) (daalvarez@unal.edu.co)
 - Semanas: 16
