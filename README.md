@@ -11,7 +11,7 @@
   - Lunes 10:00-12:00, Aula C308
   - Jueves 10:00-12:00, Aula C308
 
-- Tiempo de actividad autónoma por semana: 12 horas
+- Tiempo de actividad autónoma por semana: 12 horas (esto quiere decir que cada día, de lunes a sábado, usted debe estudiar como mínimo 2 horas diarias para este curso).
 
 ## Tabla de contenido:
 - [Temario y observaciones generales](docs/01_-_temario.md)
