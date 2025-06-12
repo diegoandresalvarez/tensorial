@@ -13,7 +13,7 @@ El curso se evaluará mediante exámenes.
       * Jueves Abril 24, 2025
     * Tema: Se harán dos preguntas:
       * Una de álgebra lineal.
-      * Otra del tema de los Capítulos 1 y 2 (hasta la sección 2.3 incluída).
+      * Otra del tema de los Capítulos 1 y 2 (hasta la sección 2.3 incluida).
 
   * Parte 2 (50%):
     * Fecha (semana 6):
@@ -34,15 +34,21 @@ El curso se evaluará mediante exámenes.
     * Fecha (semana 12):
       * Jueves Junio 26, 2025
     * Tema: 
-      * Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluída) y todos los códigos de MATLAB/MAXIMA/PYTHON asociados. 
+      * Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluida) + apéndices matemáticos.
       * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
+      * Todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+      * Matriz definida positiva
+      * Teorema de la divergencia
+      * Divergencia de un campo vectorial.
+<!---      
       * Matrix Jacobiana y determinante de la matriz Jacobiana.
       * Transformación lineal.
-      * Regla de la cadena
+      * Regla de la cadena.
+--->
 
 * **Examen 4:** 25%
     * Fecha (semana 16):
-      * Jueves Julio 24, 2025    
+      * Jueves Julio 24, 2025
     * Tema: 
       * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
 <!---
