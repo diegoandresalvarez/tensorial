@@ -34,9 +34,14 @@ El curso se evaluará mediante exámenes.
     * Fecha (semana 12):
       * Jueves Junio 26, 2025
     * Tema: 
-      * Del `main_solidos.pdf` el capítulo 4 desde el principio hasta la sección 4.8 (incluida) + apéndices matemáticos.
+      * Del `main_solidos.pdf`:
+          - Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
+          - El capítulo 4 desde el principio hasta la sección 4.8 (incluida) + apéndices matemáticos.
+<!---
       * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
+--->      
       * Todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+      * Apéndices matemáticos
       * Matriz definida positiva
       * Teorema de la divergencia
       * Divergencia de un campo vectorial.
