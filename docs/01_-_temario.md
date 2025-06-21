@@ -34,18 +34,30 @@ El curso se evaluará mediante exámenes.
     * Fecha (semana 12):
       * Jueves Junio 26, 2025
     * Tema: 
+      * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2, 3 y 4.
       * Del `main_solidos.pdf`:
-          - Todo el Capítulo 3 (incluso lo que no se explicó en clase) y todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
-          - El capítulo 4 desde el principio hasta la sección 4.8 (incluida) + apéndices matemáticos.
+          - Capítulo 3: todo, incluso lo que no se explicó en clase
+          - Capítulo 4: desde el principio hasta la sección 4.8 (incluida)
       * Todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
-      * Apéndices matemáticos:
-        - Matriz definida positiva
-        - Teorema de la divergencia
-        - Divergencia de un campo vectorial
-        - Funciones inyectivas, sobreyectivas y biyectivas (Apéndice A.1, `main_tensorial.pdf`)
-        - Imagen de un un conjunto a través de una función (Apéndice A.2, `main_tensorial.pdf`)
-        - Inversa de una función (Apéndice A.3, `main_tensorial.pdf`)
-        
+        - A.3.4 Función biyectiva
+        - A.4 Campo vectorial
+        - A.7 Expansión en series de Taylor
+        - A.8 Optimización de una función sujeta a una restricción de igualdad
+        - A.15 Divergencia
+        - A.16 El teorema de la divergencia
+        - A.20 Regla de la mano derecha
+        - A.21 Rotacional
+        - A.23 Algunos conceptos de álgebra lineal
+        - A.23.1 Valores y vectores propios
+        - A.23.2 Polinomio característico
+        - A.23.3 Cosenos directores
+        - A.23.4 Proyección de un vector sobre otro
+        - A.24 Matriz definida positiva
+      * Apéndices matemáticos del `main_tensorial.pdf`:
+        - A.1 Injective, surjective and bijective function
+        - A.2 Image through a function
+        - A.3 Inverse function
+
 <!---
       * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
       * Matrix Jacobiana y determinante de la matriz Jacobiana.
