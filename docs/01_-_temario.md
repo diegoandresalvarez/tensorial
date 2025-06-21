@@ -39,6 +39,7 @@ El curso se evaluará mediante exámenes.
           - Capítulo 3: todo, incluso lo que no se explicó en clase
           - Capítulo 4: desde el principio hasta la sección 4.8 (incluida)
       * Todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+      * Apéndices matemáticos del `main_solidos.pdf`:
         - A.3.4 Función biyectiva
         - A.4 Campo vectorial
         - A.7 Expansión en series de Taylor
