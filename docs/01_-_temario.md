@@ -37,7 +37,7 @@ El curso se evaluará mediante exámenes.
       * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2, 3 y 4.
       * Del `main_solidos.pdf`:
           - Capítulo 3: todo, incluso lo que no se explicó en clase
-          - Capítulo 4: desde el principio hasta la sección 4.8 (incluida)
+          - Capítulo 4: desde el principio hasta la sección 4.8 (incluida), excepto la sección 4.3.5 (materiales ortótropos).
       * Todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
       * Apéndices matemáticos del `main_solidos.pdf`:
         - A.3.4 Función biyectiva
