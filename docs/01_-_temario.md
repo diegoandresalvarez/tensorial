@@ -59,24 +59,23 @@ El curso se evaluará mediante exámenes.
         - A.2 Image through a function
         - A.3 Inverse function
 
-<!---
-      * Del `main_tensorial.pdf` todo el tema desde la sección 3.1 a la sección 3.10 y apéndices matemáticos. Este examen incluye lo que está en los textos guías y no se explicó en clase.
-      * Matrix Jacobiana y determinante de la matriz Jacobiana.
-      * Transformación lineal.
-      * Regla de la cadena.
---->
-
 * **Examen 4:** 25%
     * Fecha (semana 16):
       * Jueves Julio 24, 2025
     * Tema: 
-      * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
+       * Del `main_tensorial.pdf`:
+        * Secciones 3.1 a 3.10 (incluidas). Este examen incluye lo que está en el texto guía y no se explicó en clase.
+        * Apéndice matemático
+        * Matrix Jacobiana y determinante de la matriz Jacobiana.
+        * Transformación lineal.
+        * Regla de la cadena.
+        * Códigos de programación asociados
+
 <!---
+      * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
       * Del `main_tensorial.pdf`: secciones 3.11 y 3.21.
       * Del `main_tensorial.pdf`: capítulo 5 - ecuaciones fundamentales de conservación de la mecánica de los medios continuos.
-      * Matrix jacobiana y jacobiano.
       * Cambios de variable en integración múltiple.
-      * Regla de la cadena.
       * Series de Taylor (unidimensional y multidimensional)
       * Bases y espacio generado por una base.
       * Códigos de MATLAB/MAXIMA/PYTHON asociados.
