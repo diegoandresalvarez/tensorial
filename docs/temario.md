@@ -12,6 +12,8 @@ Ver tema de los exámenes en el archivo [examenes.md](examenes.md). Los exámene
 
 En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios numéricos y ejercicios de programación.
 
+NOTA: se prohíbe en estos exámenes el uso de calculadoras Hewlett-Packard, Texas Instrument y calculadoras programables Casio.
+
 <!---
 <code style="color: #ff0000;">Se permite para los exámenes, que el profesor indique, traer una hoja tamaño carta en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas y comandos de MATLAB/MAXIMA/PYTHON que deseen. En la hoja no se pueden ni escribir programas, ni textos explicativos, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones).</code>
 --->
@@ -30,7 +32,7 @@ La materia se desarrollará mediante clases magistrales.
 
 ## Contenidos programático
 
-### 0. Repaso de diferentes temas de álgebra lineal y cálculo vectorial.
+### 0. Repaso de diferentes temas de álgebra lineal y cálculo vectorial
 
 Cada estudiante debe repasar por cuenta propia los siguientes temas:
 
