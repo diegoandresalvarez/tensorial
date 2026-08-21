@@ -1,5 +1,5 @@
 # Notas de clase
-El **main.pdf** será un día un libro sobre **teoría de la elasticidad**. Por el momento son simplemente unas notas de clase. Se les sugiere de todos modos mirar la bibliografía recomendada al final del libro.  El documento fue hecho en utilizando [LaTeX](http://tug.org/begin.html) e [Inkscape](http://www.inkscape.org/) todo bajo [GNU/Linux](http://www.debian.org) (software 100% libre).
+El **main.pdf** será un día un libro sobre **teoría de la elasticidad**. Por el momento son simplemente unas notas de clase. Se les sugiere de todos modos mirar la bibliografía recomendada al final del libro.  El documento fue hecho en utilizando [LaTeX](http://tug.org/begin.html) e [Inkscape](https://inkscape.org/) todo bajo [GNU/Linux](http://www.debian.org) (software 100% libre).
 
 Para mayor información sobre LaTeX ver:
 
@@ -7,7 +7,6 @@ Para mayor información sobre LaTeX ver:
 * Para usar LaTeX en MS WINDOWS descargue:
   * [MiKTeX](http://miktex.org/)
   * [TeXStudio](https://www.texstudio.org/)
-  * [Adobe Acrobat Reader](http://get.adobe.com/es/reader/)
   
 MS WORD no es una opción para escribir documentos bonitos de una forma rápida, amena y manejable!
   
