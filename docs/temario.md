@@ -5,10 +5,10 @@
 
 ## Exámenes
 Ver tema de los exámenes en el archivo [examenes.md](examenes.md). Los exámenes se realizarán en las fechas que se indican a continuación:
-* **Examen 1:** Porcentaje: 25%. Viernes 18 de septiembre de 2026.
-* **Examen 2:** Porcentaje: 25%. Viernes 16 de octubre de 2026.
-* **Examen 3:** Porcentaje: 25%. Viernes 13 de noviembre de 2026.
-* **Examen 4:** Porcentaje: 25%. Viernes 11 de diciembre de 2026.
+* **Examen 1:** Porcentaje: 25%. Jueves 17 de septiembre de 2026 (semena 4).
+* **Examen 2:** Porcentaje: 25%. Jueves 15 de octubre de 2026 (semana 8).
+* **Examen 3:** Porcentaje: 25%. Jueves 12 de noviembre de 2026 (semana 12).
+* **Examen 4:** Porcentaje: 25%. Jueves 10 de diciembre de 2026 (semana 16).
 
 En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios numéricos y ejercicios de programación.
 
