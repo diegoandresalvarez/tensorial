@@ -6,8 +6,8 @@ Fuente: <https://xkcd.com/135/>
 
 ## Examen 1
 Se harán cuatro preguntas, una de cada uno de los siguientes temas:
-* Pregunta de álgebra lineal ((teoría y ejercicios de aplicación).
-<details>
+* Pregunta de álgebra lineal (teoría y ejercicios de aplicación).
+    <details>
     <summary>Clic para ver los temas</summary>
     * Cosenos directores
     * Proyección de vectores
@@ -20,10 +20,10 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     * Vectores linealmente dependientes/independientes
     * Bases
     * Planos y líneas rectas
-</details>
+    </details>
 
-* Pregunta de cálculo vectorial ((teoría y ejercicios de aplicación).
-<details>
+* Pregunta de cálculo vectorial (teoría y ejercicios de aplicación).
+    <details>
     <summary>Clic para ver los temas</summary>
     * Gradiente
     * Matriz jacobiana y jacobiano
@@ -36,7 +36,7 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     * Expansión en series de Taylor (univariada y multivariada)
     * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
     * Campo vectorial (definición y ejemplos sencillos)
-</details>
+    </details>
 
 * Del `main_solidos.pdf`:
     - Capítulo 1: todo, incluso lo que no se explicó en clase
