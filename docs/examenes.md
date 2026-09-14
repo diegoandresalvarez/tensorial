@@ -6,8 +6,38 @@ Fuente: <https://xkcd.com/135/>
 
 ## Examen 1
 Se harán cuatro preguntas, una de cada uno de los siguientes temas:
-* Pregunta de álgebra lineal.
-* Pregunta de cálculo vectorial.
+* Pregunta de álgebra lineal ((teoría y ejercicios de aplicación).
+<details>
+    <summary>Clic para ver los temas</summary>
+    * Cosenos directores
+    * Proyección de vectores
+    * Producto punto, producto cruz (con todas las propiedades que aparecen en el apéndice de las notas)
+    * Norma de un vector
+    * Matrices
+    * Determinantes
+    * Valores y vectores propios
+    * Espacios vectoriales
+    * Vectores linealmente dependientes/independientes
+    * Bases
+    * Planos y líneas rectas
+</details>
+
+* Pregunta de cálculo vectorial ((teoría y ejercicios de aplicación).
+<details>
+    <summary>Clic para ver los temas</summary>
+    * Gradiente
+    * Matriz jacobiana y jacobiano
+    * Divergencia
+    * Rotacional
+    * Curvas paramétricas
+    * Diferenciales (se estudió en cálculo vectorial)
+    * Optimización de funciones multivariadas sin restricciones
+    * Optimización de funciones multivariadas con restricciones de igualdad (multiplicadores de Lagrange)
+    * Expansión en series de Taylor (univariada y multivariada)
+    * Regla de la cadena (se estudió en cálculo univariado y en cálculo vectorial)
+    * Campo vectorial (definición y ejemplos sencillos)
+</details>
+
 * Del `main_solidos.pdf`:
     - Capítulo 1: todo, incluso lo que no se explicó en clase
     - Capítulo 2: todo hasta la clase anterior al examen (incluso lo que no se explicó en clase).
