@@ -43,9 +43,11 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     - Capítulo 2: todo hasta la clase anterior al examen (incluso lo que no se explicó en clase).
 
 ## Examen 2
+* Todo el Capítulo 2 (incluso lo que no se explicó en clase)
 * Todo el Capítulo 3 (incluso lo que no se explicó en clase)
 * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
 
+<!---
 ## Examen 3
 * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2, 3 y 4.
 * Del `main_solidos.pdf`:
@@ -80,6 +82,7 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
 * Transformación lineal.
 * Regla de la cadena.
 * Códigos de programación asociados
+--->
 
 <!---
       * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
