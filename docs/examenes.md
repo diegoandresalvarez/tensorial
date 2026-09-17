@@ -43,9 +43,12 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     - Capítulo 2: todo hasta la clase anterior al examen (incluso lo que no se explicó en clase).
 
 ## Examen 2
-* Todo el Capítulo 2 (incluso lo que no se explicó en clase)
-* Todo el Capítulo 3 (incluso lo que no se explicó en clase)
-* Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3.
+* Del `main_solidos.pdf`:
+    - Todo el Capítulo 2 (incluso lo que no se explicó en clase)
+    - Todo el Capítulo 3 (incluso lo que no se explicó en clase)
+* Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3:
+    - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/02_esfuerzos
+    - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/03_deformaciones
 
 <!---
 ## Examen 3
