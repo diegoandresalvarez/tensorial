@@ -45,16 +45,18 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
 ## Examen 2
 * Del `main_solidos.pdf`:
     - Todo el Capítulo 2 (incluso lo que no se explicó en clase)
-    - Todo el Capítulo 3 (incluso lo que no se explicó en clase)
 * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3:
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/02_esfuerzos
+
+## Examen 3
+    - Todo el Capítulo 3 (incluso lo que no se explicó en clase)
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/03_deformaciones
 
 <!---
-## Examen 3
+
+
 * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2, 3 y 4.
 * Del `main_solidos.pdf`:
-    - Capítulo 3: todo, incluso lo que no se explicó en clase
     - Capítulo 4: desde el principio hasta la sección 4.8 (incluida), excepto la sección 4.3.5 (materiales ortótropos).
 * Todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
 * Apéndices matemáticos del `main_solidos.pdf`:
