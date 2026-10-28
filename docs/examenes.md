@@ -49,6 +49,7 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/02_esfuerzos
 
 ## Examen 3
+* Capítulo 2: estudiar la sección 2.9 (círculos de Mohr).
 * Todo el Capítulo 3 (incluso lo que no se explicó en clase)
 * Capítulo 4: desde el principio hasta la sección 4.8 (incluida), excepto la sección 4.3.5 (materiales ortótropos).
 * Códigos de MATLAB/MAXIMA/PYTHON asociados:
