@@ -56,9 +56,36 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/03_deformaciones
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/04_ley_de_Hooke
 
+## Examen 4
+### Parte 1
+Se harán dos preguntas. El tema a evaluar comprende:
+* Del `main_tensorial.pdf`:
+    - Capítulo 1: XXX
+    - Capítulo 3: XXX
+    - Apéndices matemáticos del `main_tensorial.pdf`:
+        - A.1 Injective, surjective and bijective function
+        - A.2 Image through a function
+        - A.3 Inverse function
+    - Estudiar todo, incluso lo que no se explicó en clase.
+* Todos los códigos de MATLAB/MAXIMA/PYTHON asociados:
+    * [XXX](XXX)
+* Duración del examen: 1 hora.
+
+### Parte 2
+Se harán dos preguntas. El tema a evaluar comprende:
+* Del `main_tensorial.pdf`:
+    - Capítulo 3: XXX
+    - Capítulo 5: XXX
+    - Apéndices matemáticos del `main_tensorial.pdf`:
+        - A.X XXX
+        - A.X XXX
+        - A.X XXX
+    - Estudiar todo, incluso lo que no se explicó en clase.    
+* Todos los códigos de MATLAB/MAXIMA/PYTHON asociados:
+    * [XXX](XXX)
+* Duración del examen: 1 hora.
+
 <!---
-
-
 * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2, 3 y 4.
 * Del `main_solidos.pdf`:
     - 
@@ -102,5 +129,7 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
       * Bases y espacio generado por una base.
       * Códigos de MATLAB/MAXIMA/PYTHON asociados.
 --->
-    
+
+---
+
 En los exámenes siempre se preguntará: teoría, demostraciones, ejercicios numéricos y ejercicios de programación.
