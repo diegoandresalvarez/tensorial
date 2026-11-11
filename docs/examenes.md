@@ -47,6 +47,13 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     - Todo el Capítulo 2 (incluso lo que no se explicó en clase)
 * Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2 y 3:
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/02_esfuerzos
+* Apéndices matemáticos:
+    - A.7 Expansión en series de Taylor
+    - A.23.1 Valores y vectores propios
+    - A.23.2 Polinomio característico
+    - A.23.3 Cosenos directores
+    - A.23.4 Proyección de un vector sobre otro
+
 
 ## Examen 3
 * Capítulo 2: estudiar la sección 2.9 (círculos de Mohr).
@@ -55,20 +62,39 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
 * Códigos de MATLAB/MAXIMA/PYTHON asociados:
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/03_deformaciones
     - https://github.com/diegoandresalvarez/solidos/tree/master/codigo/04_ley_de_Hooke
+* Apéndices matemáticos:
+    - A.4 Campo vectorial
+    - A.8 Optimización de una función sujeta a una restricción de igualdad
+    - A.15 Divergencia
+    - A.16 El teorema de la divergencia
+    - A.20 Regla de la mano derecha
+    - A.21 Rotacional
+    - A.24 Matriz definida positiva
 
 ## Examen 4
+<code style="color: #ff0000;">Se permite, para el examen 4, traer una hoja tamaño oficio en la cual ustedes pueden escribir (POR UN SOLO LADO) y en media página lo que desee (incluye teoría, fórmulas, demostraciones y código). Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones).</code>
+
+NOTA: podrían aparecer preguntas del tipo ... "Escriba todo lo que sabe con respecto a ...".
+
 ### Parte 1
 Se harán dos preguntas. El tema a evaluar comprende:
 * Del `main_tensorial.pdf`:
-    - Capítulo 1: XXX
-    - Capítulo 3: XXX
-    - Apéndices matemáticos del `main_tensorial.pdf`:
+    - Capítulo 1: páginas 1 y 2
+    - Capítulo 3: desde el inicio hasta la 3.9 (inclusive) (páginas 7 a 36).
+    - Apéndices matemáticos:
         - A.1 Injective, surjective and bijective function
         - A.2 Image through a function
         - A.3 Inverse function
+        - A.4 Projection of a vector over another vector
+        - A.5 Parametric curve
+        - A.6 Derivative of a parametric curve
+        - A.7 Jacobian matrix
+        - A.8 Inverse function theorem
+        - A.9 Orthogonal matrices
+        - A.10 Chain rule
+        - A.11 Linear transformation
     - Estudiar todo, incluso lo que no se explicó en clase.
-* Todos los códigos de MATLAB/MAXIMA/PYTHON asociados:
-    * [XXX](XXX)
+* Todos los códigos de PYTHON asociados.
 * Duración del examen: 1 hora.
 
 ### Parte 2
@@ -76,49 +102,14 @@ Se harán dos preguntas. El tema a evaluar comprende:
 * Del `main_tensorial.pdf`:
     - Capítulo 3: XXX
     - Capítulo 5: XXX
-    - Apéndices matemáticos del `main_tensorial.pdf`:
+    - Apéndices matemáticos:
         - A.X XXX
         - A.X XXX
         - A.X XXX
-    - Estudiar todo, incluso lo que no se explicó en clase.    
-* Todos los códigos de MATLAB/MAXIMA/PYTHON asociados:
-    * [XXX](XXX)
+    - Estudiar todo, incluso lo que no se explicó en clase.
+* Todos los códigos de PYTHON asociados.
 * Duración del examen: 1 hora.
 
-<!---
-* Todos los códigos de MATLAB/MAXIMA/PYTHON de los capítulos 2, 3 y 4.
-* Del `main_solidos.pdf`:
-    - 
-* Todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
-* Apéndices matemáticos del `main_solidos.pdf`:
-- A.3.4 Función biyectiva
-- A.4 Campo vectorial
-- A.7 Expansión en series de Taylor
-- A.8 Optimización de una función sujeta a una restricción de igualdad
-- A.15 Divergencia
-- A.16 El teorema de la divergencia
-- A.20 Regla de la mano derecha
-- A.21 Rotacional
-- A.23 Algunos conceptos de álgebra lineal
-- A.23.1 Valores y vectores propios
-- A.23.2 Polinomio característico
-- A.23.3 Cosenos directores
-- A.23.4 Proyección de un vector sobre otro
-- A.24 Matriz definida positiva
-* Apéndices matemáticos del `main_tensorial.pdf`:
-- A.1 Injective, surjective and bijective function
-- A.2 Image through a function
-- A.3 Inverse function
-
-## Examen 4
-* Del `main_tensorial.pdf`:
-* Secciones 3.1 a 3.10 (incluidas). Este examen incluye lo que está en el texto guía y no se explicó en clase.
-* Apéndice matemático
-* Matrix Jacobiana y determinante de la matriz Jacobiana.
-* Transformación lineal.
-* Regla de la cadena.
-* Códigos de programación asociados
---->
 
 <!---
       * Grandes deformaciones, ecuaciones fundamentales de la mecánica de los medios continuos. Se evaluarán también todos los códigos de MATLAB/MAXIMA/PYTHON asociados.
