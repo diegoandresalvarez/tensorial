@@ -72,7 +72,7 @@ Se harán cuatro preguntas, una de cada uno de los siguientes temas:
     - A.24 Matriz definida positiva
 
 ## Examen 4
-<code style="color: #ff0000;">Se permite, para el examen 4, traer una hoja tamaño oficio en la cual ustedes pueden escribir (POR UN SOLO LADO) y en media página lo que desee (incluye teoría, fórmulas, demostraciones y código). Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones).</code>
+<code style="color: #ff0000;">Para el examen 4, se permite traer media hoja tamaño oficio, escrita por un solo lado, con el contenido que cada estudiante considere pertinente, incluidas teoría, fórmulas, demostraciones y código. La hoja debe ser de elaboración personal y estar escrita a mano. No se permite llevar hojas elaboradas en semestres anteriores, ni fotocopias, impresiones o reducciones.</code>
 
 NOTA: podrían aparecer preguntas del tipo ... "Escriba todo lo que sabe con respecto a ...".
 
